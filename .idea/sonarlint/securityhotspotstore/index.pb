@@ -13,3 +13,5 @@ w
 Gtodolist/src/main/java/br/com/sandrocaputo/todolist/user/UserModel.java,3\5\35c20204771f17e17928a574b1b673e014b426dc
 A
 todolist/mvnw.cmd,b\8\b84d47e84419b1f88d5fe4b06b80a7a5431a5bc5
+}
+Mtodolist/src/main/java/br/com/sandrocaputo/todolist/user/IUserRepository.java,f\2\f2c40c2d8b6eed163f210302963c33b45106fa62
