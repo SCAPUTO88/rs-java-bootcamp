@@ -15,3 +15,11 @@ A
 todolist/mvnw.cmd,b\8\b84d47e84419b1f88d5fe4b06b80a7a5431a5bc5
 }
 Mtodolist/src/main/java/br/com/sandrocaputo/todolist/user/IUserRepository.java,f\2\f2c40c2d8b6eed163f210302963c33b45106fa62
+w
+Gtodolist/src/main/java/br/com/sandrocaputo/todolist/task/TaskModel.java,b\5\b587f5b448a7d12a5d29457190cb634b9653a4b7
+|
+Ltodolist/src/main/java/br/com/sandrocaputo/todolist/task/TaskController.java,c\9\c98ba6492a6b57db6c59d3667e2353ced7446342
+}
+Mtodolist/src/main/java/br/com/sandrocaputo/todolist/task/ITaskRepository.java,5\5\551fd73ccd0d204abe2a47fa2e082ad6f302cd65
+~
+Ntodolist/src/main/java/br/com/sandrocaputo/todolist/filter/FilterTaskAuth.java,a\8\a89d9cd0bf35c8fa99c585c5e5f7f1a918876c31
